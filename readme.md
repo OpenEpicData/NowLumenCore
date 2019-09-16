@@ -4,7 +4,7 @@ Add now.sh support for the Lumen framework
 
 ## Getting-Start
 
-`> composer create-project --prefer-dist open-epic-data/now-lumen-core lumen dev-master`
+`> composer create-project --prefer-dist epicdata/now-lumen-core lumen dev-master`
 
 ## Real-time build preview
 
