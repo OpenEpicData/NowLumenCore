@@ -1,5 +1,5 @@
 {
-    "name": "OpenEpicData/NowLumenCore",
+    "name": "open-epic-data/now-lumen-core",
     "description": "Add now.sh support for the Lumen framework",
     "keywords": ["framework", "laravel", "lumen", "zeit", "now"],
     "license": "MIT",
