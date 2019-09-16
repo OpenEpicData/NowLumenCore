@@ -14,13 +14,9 @@
         "mode": "cgi",
         "composer": true
       }
-    },
-    { "src": "public/!(*.php)", "use": "@now/static" },
-    { "src": "public/**/!(*.php)", "use": "@now/static" }
+    }
   ],
   "routes": [
-    { "src": "/favicon.ico", "dest": "public/favicon.ico"},
-    { "src": "/robots.txt", "dest": "public/robots.txt"},
     { "src": "/(.*)", "dest": "public/index.php" } 
   ]
 }
