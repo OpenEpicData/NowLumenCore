@@ -1,6 +1,6 @@
 # NowLumenCore
 
-Add now.sh support for the framework
+Add now.sh support for the Lumen framework
 
 ## Lumen Official Documentation
 
