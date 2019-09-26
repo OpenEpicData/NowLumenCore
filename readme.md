@@ -6,6 +6,10 @@ Add now.sh support for the Lumen framework
 
 `> composer create-project --prefer-dist epicdata/now-lumen-core lumen dev-master`
 
+## Project major repo
+
+Visit: https://github.com/OpenEpicData/NowLumenCore
+
 ## Real-time build preview
 
 Visit: https://now-lumen-core.open.epicdata.net/
