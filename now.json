@@ -9,7 +9,7 @@
   "builds": [
     {
       "src": "public/index.php",
-      "use": "now-php@latest",
+      "use": "now-php@0.0.9-experimental.1",
       "config": {
         "mode": "cgi",
         "composer": true
@@ -17,6 +17,6 @@
     }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "public/index.php" } 
+    { "src": "/(.*)", "dest": "public/index.php" }
   ]
 }
